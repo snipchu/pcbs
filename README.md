@@ -1,11 +1,10 @@
 # pcbs
-learning how to make pcbs and stuff using easyeda
-most of this is just following hackclub tutorials
+all my pcb files
 
-* flashinglights: bunnyguy shooting at your with a lazer beam - hackclub electronic trash tutorials
-![A pcb of bunnyguy pointing towards the camera](./flashinglights/flashinglights.png)
-* hackercard: following hackclub hacker card tutorial
-![A rectangular pcb containing bunnyguy and the text "THE COOLEST PCB YOU'VE EVER SEEN"](./hackercard/hackercard.png)
-* usbhub: following hackclub usbhub turorial
-![A pcb containing multiple USB ports.](./usbhub/usbhub.png)
-(open the json file in easyeda to access each pcb)
+- [flashinglights](./flashinglights/flashinglights.png) (EasyEDA): bunnyguy shooting at your with a lazer beam - hackclub electronic trash tutorials
+- [hackercard](./hackercard/hackercard.png) (EasyEDA): following hackclub hacker card tutorial
+- [usbhub](./usbhub/usbhub.png) (EasyEDA): following hackclub usbhub turorial
+- [bunnyboard](./bunnyboard/steno.png) (KiCad): hobbyist stenography keyboard PCB made for onboard!
+  - [link to gerber](./bunnyboard/production/steno.zip)
+  - uses 28 Kailh Choc v1 switches
+  - bunnyguy.kicad_mod is a footprint to import a drawing of bunnyguy
